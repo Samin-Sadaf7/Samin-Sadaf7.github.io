@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Dhaka, Bangladesh" # location to show on the sidebar
-  employer         : "Islamic University of Technology" # name of the university
+  student          : "Islamic University of Technology" # name of the university
   position         : "Student" # position at the university
   uri              : # URL
   email            : "saminsadaf7@gmail.com" 
