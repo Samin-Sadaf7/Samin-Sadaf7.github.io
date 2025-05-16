@@ -25,7 +25,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Samin's Homepage" # name of the author
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : " A Software Engineering student at Isalmic University of Technology(IUT), \
+                       passionate about AI, full-stack development, and building real-world intelligent systems."
   location         : "Dhaka, Bangladesh" # location to show on the sidebar
   student          : "Islamic University of Technology" # name of the university
   position         : "Student" # position at the university
