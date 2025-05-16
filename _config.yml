@@ -22,36 +22,37 @@ repository               : "Samin-Sadaf7/Samin-Sadaf7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Samin-Sadaf7.github.io/images/profile.jpg"
-  name             : "Syed Samin Sadaf"
+  avatar           : "profile.png"
+  name             : "Samin's Homepage" # name of the author
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Dhaka, Bangladesh"
-  employer         : "Islamic University of Technology (IUT)"
+  location         : "Dhaka, Bangladesh" # location to show on the sidebar
+  student          : "Islamic University of Technology" # name of the university
+  position         : "Student" # position at the university
   uri              : # URL
   email            : "saminsadaf7@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=vBAOzegAAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Samin-Sadaf?ev=hdr_xprf"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Samin-Sadaf7"
-  kaggle           : "saminsadaf:
+  github           : "academicpages"
+  kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
